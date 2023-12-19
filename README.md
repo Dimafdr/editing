@@ -1,8 +1,8 @@
 # Домашнее задание №1 к лекции «Redux»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/t0htyehuprrkq9jp?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ra-hw-10-1-editing)
+[![Build status](https://ci.appveyor.com/api/projects/status/t0htyehuprrkq9jp?svg=true)](https://ci.appveyor.com/project/Dimafdr/editing)
 
-[Ссылка на Github Pages](https://yuriyvyatkin.github.io/ra-hw-10.1-editing/)
+[Ссылка на Github Pages](https://dimafdr.github.io/editing/)
 
 Редактирование
 ===
